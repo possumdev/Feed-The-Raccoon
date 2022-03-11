@@ -1,4 +1,4 @@
-# Feed👏The👏Raccoon
+# Feed The Raccoon
 
 Feed The Raccoon is an application for reading and writing config files.
 
